@@ -111,6 +111,9 @@ header button {
     background: url(assets/mmmut3.jpg);
     background-size: 102%;
 }
+.MMMUT1{
+    width: 100%;
+}
 #slider, .main ul {
 	height: 200px;
 }
